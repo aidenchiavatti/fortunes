@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<fortunes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.chiavatti.fortunes.DemoApplication",
+            "projectName": "fortunes",
+            "args": ""
+        }
+    ]
+}
